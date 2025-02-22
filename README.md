@@ -4,7 +4,7 @@
 This repository contains automated test scripts for web application testing using **Cypress**. The tests cover various functional scenarios and generate detailed reports for analysis.  
 
 ## **Directory Structure**  
-mrrajak1296-automation-cypresstesting/ ├── README.md # Project Documentation ├── Automation Bug Report.docx # Bug report document ├── Automation Summary of Test Execution.xlsx # Summary of test execution ├── Automation Test Store Test Case.xlsx # Test case documentation ├── _Automation Test Store TEST PLAN.docx # Test Plan for automation ├── _The Summary Report Automation Test Store.docx # Summary report └── TransportSimple/ └── a # Placeholder directory
+mrrajak1296-automation-cypresstesting/ ├── README.md # Project Documentation ├── Automation Bug Report.docx # Bug report document ├── Automation Summary of Test Execution.xlsx # Summary of test execution ├── Automation Test Store Test Case.xlsx # Test case documentation ├── _Automation Test Store TEST PLAN.docx # Test Plan for automation ├── _The Summary Report Automation Test Store.docx # Summary report 
 
 
 
